@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: spring-petclinic
+  annotations:
+    github.com/project-slug: nan-gu-temus/spring-petclinic
+spec:
+  type: other
+  lifecycle: unknown
+  owner: nangu
